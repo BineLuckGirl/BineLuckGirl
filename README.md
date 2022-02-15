@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BineLuckGirl
+- 👋 Hi, I’m @sabrina-goncalves-de-almeida
 - 👀 I’m interested in devgames and apps.
 - 🌱 I’m currently learning javascript, C++, java and game design.
 - 💞️ I’m looking to collaborate with my team.
